@@ -115,13 +115,25 @@
       },
       {
         "skill": {
+          "name": "JavaScript",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Sass",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
           "name": "Figma",
           "type": "technology"
         }
       },
       {
         "skill": {
-          "name": "JavaScript",
+          "name": "Scss",
           "type": "technology"
         }
       }
