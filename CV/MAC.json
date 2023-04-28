@@ -1,0 +1,191 @@
+{
+  "$schema": "https://raw.githubusercontent.com/getmanfred/mac/v0.3/schema/schema.json",
+  "settings": {
+    "language": "ES",
+    "MACVersion": "0.3"
+  },
+  "aboutMe": {
+    "profile": {
+      "name": "Rosa María",
+      "surnames": "Montero Román",
+      "title": "Fontend UI, licenciada en Psicología",
+      "description": "Después de más de 10 años en el campo de la Neuropsicología y atraía por la experiencia de usuario, decidí dar el salto al mundo tecnológico e hice un posgrado en UX/UI, marketing digital y desarrollo front-end. Sorprendentemente, durante el posgrado desarrollé un inesperado gusto por el frontend y actualmente quisiera seguir evolucionando en éste área. \n\nA lo largo de mi trayectoria profesional, no solo he trabajado siempre en equipo, sino que he tenido la posibilidad de coordinar el área de neurorehablitación de una de las clínicas en las que trabajé. Además, tengo una ámplia experiencia en el trabajo cara al público y he desarrollado una buena comunicación efectiva, capacidad de análisis de datos y de resolución de problemas. \n\nDesearía encontrar la manera de aunar ambos mundos para convertirme en una profesional completa capaz de aportar un plus al equipo de trabajo. ",
+      "location": {
+        "country": "España",
+        "region": "Comunidad Valenciana",
+        "municipality": "Valencia",
+        "notes": "Autocompleted using Google Maps API"
+      }
+    },
+    "relevantLinks": [
+      {
+        "type": "github",
+        "URL": "https://github.com/RosaMonro"
+      },
+      {
+        "type": "linkedin",
+        "URL": "https://www.linkedin.com/in/rosamariamonteroroman/"
+      }
+    ]
+  },
+  "experience": {
+    "jobs": [
+      {
+        "organization": {
+          "name": "Universidad de Murcia, ISEP, Universitat Oberta de Catalunya, entre otros centros formativos. "
+        },
+        "roles": [
+          {
+            "name": "Tutora de prácticas",
+            "startDate": "2013-01-01",
+            "finishDate": "2022-09-01",
+            "challenges": [
+              {
+                "description": "Tutora de prácticas de alumnos de grado en Psicología y Máster en Neuropsicología de distintos centros formativos."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "NeuroRhb, Universidad de La Laguna (departamento de neuropsicología), Vitalastur, Integra Daño Cerebral, Neural y Neuron. "
+        },
+        "roles": [
+          {
+            "name": "Neuropsicóloga",
+            "startDate": "2010-05-01",
+            "finishDate": "2022-10-01",
+            "challenges": [
+              {
+                "description": "Más de 10 años de experiencia como neuropsicóloga en diferentes centros de neurorrehabilitación del país. \nFunciones:\n- Evaluación y rehabilitación neuropsicológica en pacientes con daño cerebral.\n- Asesoramiento familiar.\n- Elaboración de informes.\n- Coordinadora de servicio.\n- Gestión de expedientes.\n- Atenciones telefónicas."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "Servivía"
+        },
+        "roles": [
+          {
+            "name": "Recepcionista y gobernanta de edificio CEMECO de Bajcaja-Valencia",
+            "startDate": "2006-07-01",
+            "finishDate": "2007-10-01",
+            "challenges": [
+              {
+                "description": "Recepcionista y gobernanta. \nFunciones:\n- Gestión de salas de reunión.\n- Supervisión de mantenimiento.\n- Control y registro de entradas.\n- Gestión de valija interna.\n- Gestión de mensajería externa."
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "knowledge": {
+    "hardSkills": [
+      {
+        "skill": {
+          "name": "React",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "HTML",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "CSS",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Figma",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "JavaScript",
+          "type": "technology"
+        }
+      }
+    ],
+    "studies": [
+      {
+        "studyType": "officialDegree",
+        "degreeAchieved": false,
+        "name": "Posgrado en UX/UI, desarrollo front-end y Marketing digital",
+        "startDate": "2022-10-01",
+        "institution": {
+          "name": "Escuela Superior de Arte y Tecnología",
+          "description": "Postgrado especializado en Diseño y Desarrollo Web front-end profesional. \nFormación integral, desde la idea, pasando por la estrategia de marketing hasta el desarrollo del producto.\nUX (User Experience) Designer\nUI (User Interface) Designer / Diseñador de Interfaces\nFront-end developer\nFront-end UI\nWeb APP Developer\nCommunity Manager\nCreativo digital"
+        },
+        "linkedCompetences": [
+          {
+            "name": "CSS",
+            "type": "technology"
+          },
+          {
+            "name": "Figma",
+            "type": "technology"
+          },
+          {
+            "name": "Google Analytics",
+            "type": "technology"
+          },
+          {
+            "name": "HTML",
+            "type": "technology"
+          },
+          {
+            "name": "JavaScript",
+            "type": "technology"
+          },
+          {
+            "name": "React",
+            "type": "technology"
+          }
+        ]
+      },
+      {
+        "studyType": "officialDegree",
+        "degreeAchieved": true,
+        "name": "Máster en Neuropsicología",
+        "startDate": "2009-10-01",
+        "finishDate": "2011-09-01",
+        "institution": {
+          "name": "Instituto Secundario de Estudios Psicológicos. ",
+          "description": "Especializada en evaluación y rehabilitación."
+        }
+      },
+      {
+        "studyType": "officialDegree",
+        "degreeAchieved": true,
+        "name": "Licenciada en Psicología",
+        "startDate": "2002-09-01",
+        "finishDate": "2008-09-01",
+        "institution": {
+          "name": "Universidad de Valencia",
+          "description": ""
+        }
+      }
+    ]
+  },
+  "careerPreferences": {
+    "contact": {
+      "publicProfiles": [
+        {
+          "type": "linkedin",
+          "URL": "https://www.linkedin.com/in/rosamariamonteroroman/"
+        }
+      ]
+    },
+    "status": "searchingActively"
+  }
+}
