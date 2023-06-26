@@ -77,6 +77,48 @@
           }
         ]
       }
+    ],
+    "projects": [
+      {
+        "details": {
+          "name": "Portfolio",
+          "description": "Este fue el tercer y último proyecto del posgrado y engloba los anteriores y genera espacio para los proyectos y ejercicios futuros. \n\nCon este proyecto pretendo dar a conocer mis trabajos y mi evolución hasta la fecha poniéndo en práctica los conocimientos adquiridos a lo largo del posgrado.\n\nEl portfolio está diseñado en figma, desarrollado en React y utilizando Vite como herramienta de compilación. De esta forma, la modularidad de los componentes me permite crear una estructura escalable.\n\nLos proyectos se almacenan en un archivo JSON personalizado, lo que facilita su mantenimiento y actualización.\n\nEl diseño del portfolio es limpio y muy sencillo, centrándose en la presentación clara y concisa de los proyectos. ",
+          "URL": "https://rosamontero-portfolio.netlify.app/",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/06/26/b9261313-9568-4f68-a0c2-4af90105fd56_r.png",
+            "alt": "R.png"
+          }
+        },
+        "type": "sideProject",
+        "roles": [
+          {
+            "name": "Developer",
+            "startDate": "2023-05-01",
+            "competences": [
+              {
+                "name": "Figma",
+                "type": "technology"
+              },
+              {
+                "name": "HTML",
+                "type": "technology"
+              },
+              {
+                "name": "JavaScript",
+                "type": "technology"
+              },
+              {
+                "name": "React",
+                "type": "technology"
+              },
+              {
+                "name": "Sass",
+                "type": "technology"
+              }
+            ]
+          }
+        ]
+      }
     ]
   },
   "knowledge": {
@@ -247,6 +289,11 @@
   },
   "manfredSpecificData": {
     "desiredJobDescription": "Actualmente mi trabajo ideal sería aquel en el que, dada mi situación actual, pueda aprender y contar con el apoyo de mis compañeros, pero también poder aportar algo de mis años de experiencia en el área de la psicología, la evaluación y el trabajo en equipo. \nLlegar a automatizar mis conocimientos, ampliarlos y aprender cómo se trabaja en el sector es mi prioridad a día de hoy. Y por ello, trabajar en un ambiente serio pero amable así como ambicioso pero considerado con los procesos de aprendizaje sería un ideal. ",
-    "goodPractices": "A lo largo de mi formación he aprendido la importancia de las buenas prácticas cuando se trata, sobre todo, de trabajar en equipo:\nTrabajar de manera organizada y tratar de mantener un código limpio es importante para que otros desarrolladores, o yo misma en el futuro, podamos entender y mantener el código más fácilmente. \nDesde el primero de mis proyectos, el diseño siempre ha sido responsivo para adaptarse a distintas resoluciones. Además, me esfuerzo por que obtener una buena accesibilidad utilizando etiquetas apropiadas, un HTML semántico, contrastes de colores adecuados, etc.\nPor supuesto me queda mucho por aprender para implementar todas las estrategias correctamente y mejorar en otras como la seguridad y la optimización para motores de búsqueda."
+    "goodPractices": "A lo largo de mi formación he aprendido la importancia de las buenas prácticas cuando se trata, sobre todo, de trabajar en equipo:\nTrabajar de manera organizada y tratar de mantener un código limpio es importante para que otros desarrolladores, o yo misma en el futuro, podamos entender y mantener el código más fácilmente. \nDesde el primero de mis proyectos, el diseño siempre ha sido responsivo para adaptarse a distintas resoluciones. Además, me esfuerzo por que obtener una buena accesibilidad utilizando etiquetas apropiadas, un HTML semántico, contrastes de colores adecuados, etc.\nPor supuesto me queda mucho por aprender para implementar todas las estrategias correctamente y mejorar en otras como la seguridad y la optimización para motores de búsqueda.",
+    "projects": [
+      {
+        "name": "Portfolio"
+      }
+    ]
   }
 }
