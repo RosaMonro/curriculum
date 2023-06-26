@@ -16,7 +16,13 @@
         "region": "Comunidad Valenciana",
         "municipality": "Valencia"
       }
-    }
+    },
+    "relevantLinks": [
+      {
+        "type": "other",
+        "URL": "https://rosamontero-portfolio.netlify.app/"
+      }
+    ]
   },
   "experience": {
     "jobs": [
