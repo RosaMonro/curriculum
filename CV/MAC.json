@@ -178,49 +178,6 @@
     ],
     "studies": [
       {
-        "studyType": "certification",
-        "degreeAchieved": false,
-        "name": "Certificado posgrado especializado en UX/UI, Marketing Digital y Desarrollo Web Frontend.",
-        "startDate": "2023-06-01",
-        "institution": {
-          "name": "ESAT Valencia",
-          "image": {
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/06/26/45915fdf-e26d-468c-b53c-f1deb3cfc94f_esat_valencia_logo.jpg",
-            "alt": "esat_valencia_logo.jpg"
-          }
-        },
-        "linkedCompetences": [
-          {
-            "name": "CSS",
-            "type": "technology"
-          },
-          {
-            "name": "Figma",
-            "type": "technology"
-          },
-          {
-            "name": "HTML",
-            "type": "technology"
-          },
-          {
-            "name": "JavaScript",
-            "type": "technology"
-          },
-          {
-            "name": "React",
-            "type": "technology"
-          },
-          {
-            "name": "Sass",
-            "type": "technology"
-          },
-          {
-            "name": "Scss",
-            "type": "technology"
-          }
-        ]
-      },
-      {
         "studyType": "officialDegree",
         "degreeAchieved": true,
         "name": "Licenciada en Psicología",
