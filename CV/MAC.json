@@ -202,12 +202,6 @@
       },
       {
         "skill": {
-          "name": "Capacidad de mentorización",
-          "type": "practice"
-        }
-      },
-      {
-        "skill": {
           "name": "Trabajo en equipo",
           "type": "practice"
         }
