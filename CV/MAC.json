@@ -178,6 +178,49 @@
     ],
     "studies": [
       {
+        "studyType": "certification",
+        "degreeAchieved": false,
+        "name": "Certificado posgrado especializado en UX/UI, Marketing Digital y Desarrollo Web Frontend.",
+        "startDate": "2023-06-01",
+        "institution": {
+          "name": "ESAT Valencia",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/06/26/45915fdf-e26d-468c-b53c-f1deb3cfc94f_esat_valencia_logo.jpg",
+            "alt": "esat_valencia_logo.jpg"
+          }
+        },
+        "linkedCompetences": [
+          {
+            "name": "CSS",
+            "type": "technology"
+          },
+          {
+            "name": "Figma",
+            "type": "technology"
+          },
+          {
+            "name": "HTML",
+            "type": "technology"
+          },
+          {
+            "name": "JavaScript",
+            "type": "technology"
+          },
+          {
+            "name": "React",
+            "type": "technology"
+          },
+          {
+            "name": "Sass",
+            "type": "technology"
+          },
+          {
+            "name": "Scss",
+            "type": "technology"
+          }
+        ]
+      },
+      {
         "studyType": "officialDegree",
         "degreeAchieved": true,
         "name": "Licenciada en Psicología",
@@ -200,13 +243,19 @@
       },
       {
         "studyType": "officialDegree",
-        "degreeAchieved": false,
+        "degreeAchieved": true,
         "name": "Posgrado en UX/UI, desarrollo front-end y Marketing digital",
         "startDate": "2022-10-01",
         "institution": {
           "name": "Escuela Superior de Arte y Tecnología",
-          "description": "Postgrado especializado en Diseño y Desarrollo Web front-end profesional. \nFormación integral, desde la idea, pasando por la estrategia de marketing hasta el desarrollo del producto.\nUX (User Experience) Designer\nUI (User Interface) Designer / Diseñador de Interfaces\nFront-end developer\nFront-end UI\nWeb APP Developer\nCommunity Manager\nCreativo digital"
+          "description": "Postgrado especializado en Diseño y Desarrollo Web front-end profesional. \nFormación integral, desde la idea, pasando por la estrategia de marketing hasta el desarrollo del producto.\nUX (User Experience) Designer\nUI (User Interface) Designer / Diseñador de Interfaces\nFront-end developer\nFront-end UI\nWeb APP Developer\nCommunity Manager\nCreativo digital",
+          "URL": "https://www.esat.es/estudios/postgrado-especializado-en-diseno-y-desarrollo-web-front-end/",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/06/26/2055319b-9097-4f43-9909-b1e8366efe73_esat_valencia_logo.jpg",
+            "alt": "esat_valencia_logo.jpg"
+          }
         },
+        "finishDate": "2023-06-01",
         "linkedCompetences": [
           {
             "name": "CSS",
