@@ -302,6 +302,10 @@
   "manfredSpecificData": {
     "mainStackTechs": [
       {
+        "name": "HTML",
+        "type": "technology"
+      },
+      {
         "name": "React",
         "type": "technology"
       },
