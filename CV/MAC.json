@@ -300,6 +300,16 @@
     "status": "searchingActively"
   },
   "manfredSpecificData": {
+    "mainStackTechs": [
+      {
+        "name": "React",
+        "type": "technology"
+      },
+      {
+        "name": "Sass",
+        "type": "technology"
+      }
+    ],
     "desiredJobDescription": "Actualmente mi trabajo ideal sería aquel en el que, dada mi situación actual, pueda aprender y contar con el apoyo de mis compañeros, pero también poder aportar algo de mis años de experiencia en el área de la psicología, la evaluación y el trabajo en equipo. \nLlegar a automatizar mis conocimientos, ampliarlos y aprender cómo se trabaja en el sector es mi prioridad a día de hoy. Y por ello, trabajar en un ambiente serio pero amable así como ambicioso pero considerado con los procesos de aprendizaje sería un ideal. ",
     "goodPractices": "A lo largo de mi formación he aprendido la importancia de las buenas prácticas cuando se trata, sobre todo, de trabajar en equipo:\nTrabajar de manera organizada y tratar de mantener un código limpio es importante para que otros desarrolladores, o yo misma en el futuro, podamos entender y mantener el código más fácilmente. \nDesde el primero de mis proyectos, el diseño siempre ha sido responsivo para adaptarse a distintas resoluciones. Además, me esfuerzo por que obtener una buena accesibilidad utilizando etiquetas apropiadas, un HTML semántico, contrastes de colores adecuados, etc.\nPor supuesto me queda mucho por aprender para implementar todas las estrategias correctamente y mejorar en otras como la seguridad y la optimización para motores de búsqueda.",
     "projects": [
