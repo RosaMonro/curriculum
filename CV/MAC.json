@@ -184,6 +184,31 @@
     ],
     "studies": [
       {
+        "studyType": "unaccredited",
+        "degreeAchieved": true,
+        "name": "Desarrollo Front-End con React",
+        "startDate": "2023-07-01",
+        "institution": {
+          "name": "ESAT Valencia",
+          "description": "Curso intensivo de React de cero a experto. 40 horas. ",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/08/01/707d971f-a993-444d-966f-7b80a63408c0_esat_valencia_logo.jpg",
+            "alt": "esat_valencia_logo.jpg"
+          }
+        },
+        "finishDate": "2023-07-01",
+        "linkedCompetences": [
+          {
+            "name": "React",
+            "type": "technology"
+          },
+          {
+            "name": "TypeScript",
+            "type": "technology"
+          }
+        ]
+      },
+      {
         "studyType": "officialDegree",
         "degreeAchieved": true,
         "name": "Licenciada en Psicología",
@@ -301,6 +326,10 @@
   },
   "manfredSpecificData": {
     "mainStackTechs": [
+      {
+        "name": "CSS",
+        "type": "technology"
+      },
       {
         "name": "HTML",
         "type": "technology"
